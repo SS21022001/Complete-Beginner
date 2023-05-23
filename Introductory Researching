@@ -23,4 +23,6 @@ What hash format are modern Windows login passwords stored in?
 What are automated tasks called in Linux?
 > Cron Jobs
 What number base could you use as a shorthand for base 2 (binary)?
-> 
+> base 16
+If a password hash starts with $6$, what format is it (Unix variant)?
+> sha512crypt
