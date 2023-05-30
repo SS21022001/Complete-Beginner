@@ -26,3 +26,8 @@ What number base could you use as a shorthand for base 2 (binary)?
 > base 16
 If a password hash starts with $6$, what format is it (Unix variant)?
 > sha512crypt
+
+Task-3
+
+What is the CVE for the 2020 Cross-Site Scripting (XSS) vulnerability found in WPForms?
+> CVE-2020-10385
